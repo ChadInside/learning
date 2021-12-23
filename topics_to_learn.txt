@@ -1,0 +1,59 @@
+crud vs rest
+oop 3 типа, архитектуры
+реляционные БД
+как реализована асинхронность
+
+property descriptor
+object.entries
+outboxing
+apply bind
+
+прототипы object create // set prorotype of
+приведение типов к булеан
+
+///////////////
+localstorage vs session storage vs cookies
+
+reduce
+
+замыкание, промисы всегда спрашивают, bind, apply, call
+
+string methods  split, join, reverse
+
+Lodash utility library
+////////////////
+Смена контекста функции bind, call, apply
+Асинхронные функции и работа с ними // async await, promise, callback
+
+linked lists, set, map.
+очередь, стэк
+бинарное дерево поиска, рекурсия
+замыкания
+jwt token
+mvc pattern
+MVC/MVVM
+ES8
+SQL/noSQL
+typescript
+react
+oop principles, design patterns
+next.js
+pern stack
+//////////////
+Основы: циклы, условия, функции, типы данных, объекты, массивы
+Структуры данных: хеш таблицы, списки
+Алгоритмы: поиск, сортировка, рекурсия
+Оценка сложности алгоритмы: Нотация О
+ООП: классы, объекты, наследование, композиция, полиморфизм, инкапсуляция, интерфейсы, DI, IoC
+Паттерны банды 4х, SOLID, MVC
+Особенности языка: сборка мусора, асинхронная модель и тд.
+WEB: модель OSI, TCP/IP, http, Rest API, Soap, WebSockets
+Linux: базовые операции - навигация по ФС, права, apt
+Базы данных: SQL, проектирование БД, реляц vs нереляц
+Git и Фреймворк
+Деревья, графы
+
+node v8, libuv, потоки, неблокирующая модель, паттерн реактор, сравнение, демультиплексор событий, особенности event loop в ноде
+стримы
+modules: cluster, events
+//////////
